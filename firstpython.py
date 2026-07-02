@@ -1,2 +1,4 @@
 # Display the output
-print("New python file")
+def print_line():
+  print("New python file")
+print_line()
